@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiTapThietKeForm", "BaiTapThietKeForm\BaiTapThietKeForm.csproj", "{C7135C29-F7F3-4325-AA1B-8447414CA73E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7135C29-F7F3-4325-AA1B-8447414CA73E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7135C29-F7F3-4325-AA1B-8447414CA73E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7135C29-F7F3-4325-AA1B-8447414CA73E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7135C29-F7F3-4325-AA1B-8447414CA73E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {725D1B39-DDFB-45D9-9539-2687DE86F230}
+	EndGlobalSection
+EndGlobal
